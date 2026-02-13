@@ -1,3 +1,8 @@
+👩‍💻 Author: Tamine Eiras  
+📍 Brazil  
+💼 Aspiring Data Analyst / Data Engineer  
+🔗 LinkedIn: https://www.linkedin.com/in/tamine-eiras/ 
+
 # Data Analysis with SQL
 
 Portfolio project focused on data analysis using SQL, PostgreSQL, and Docker.
